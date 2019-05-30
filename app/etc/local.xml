@@ -41,9 +41,9 @@
             <default_setup>
                 <connection>
                     <host><![CDATA[localhost]]></host>
-                    <username><![CDATA[vilabras_site]]></username>
-                    <password><![CDATA[alfa123@*]]></password>
-                    <dbname><![CDATA[vilabras_site]]></dbname>
+                    <username><![CDATA[webshop]]></username>
+                    <password><![CDATA[f61510bc513ca77f02804e2b52]]></password>
+                    <dbname><![CDATA[webshop]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>
