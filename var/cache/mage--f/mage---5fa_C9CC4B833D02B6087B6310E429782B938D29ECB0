@@ -1,0 +1,874 @@
+<div id="banner-slider-demo-5" class="owl-carousel owl-theme owl-middle-narrow owl-banner-carousel">
+
+    <div class="item" style="background:url(https://vilabrasil.com.br/media/wysiwyg/porto/homepage/slider/05/02_bg.png) center center no-repeat;background-size:cover;">
+        <div class="container" style="position:relative">
+            <img src="https://vilabrasil.com.br/media/wysiwyg/porto/homepage/slider/05/02.png" alt="" />
+        </div>
+    </div>
+    <div class="item" style="background:url(https://vilabrasil.com.br/media/wysiwyg/porto/homepage/slider/05/03_bg.png) center center no-repeat;background-size:cover;">
+        <div class="container" style="position:relative">
+            <img src="https://vilabrasil.com.br/media/wysiwyg/porto/homepage/slider/05/03.png" alt="" />
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    jQuery(function($){
+        $("#banner-slider-demo-5").owlCarousel({autoPlay:true,lazyLoad:true,stopOnHover: true,pagination: false, autoPlay: true,navigation: true,navigationText:["<i class='icon-chevron-left'></i>","<i class='icon-chevron-right'></i>"],slideSpeed : 500,paginationSpeed : 500,singleItem:true,transitionStyle : "fade"});
+    });
+</script>
+<div class="homepage-bar">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <i class="icon-truck" style="font-size:36px;"></i><div class="text-area"><h3>ENTREGAS</h3><p>Entregas Rápidas.</p></div>
+            </div>
+            <div class="col-md-4">
+                <i class="icon-dollar"></i><div class="text-area"><h3>SITE SEGURO</h3><p>Site 100% Seguro.</p></div>
+            </div>
+            <div class="col-md-4">
+                <i class="icon-lifebuoy" style="font-size:32px;"></i><div class="text-area"><h3>ATENDIMENTO</h3><p>Atendimento vendas e pós vendas.</p></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="single-images border-radius" style="padding-top: 25px;">
+    <div class="container">
+        <div class="row" style="margin-left:-10px;margin-right:-10px;">
+            <div class="col-sm-3 col-xs-6" style="padding-left:10px;padding-right:10px;padding-top:20px;">
+           
+            </div>
+            <div class="col-sm-3 col-xs-6" style="padding-left:10px;padding-right:10px;padding-top:20px;">
+             
+            </div>
+            <div class="col-sm-3 col-xs-6" style="padding-left:10px;padding-right:10px;padding-top:20px;">
+              
+            </div>
+            <div class="col-sm-3 col-xs-6" style="padding-left:10px;padding-right:10px;padding-top:20px;">
+             
+            </div>
+         </div>
+    </div>
+</div>
+<div style="padding-top: 35px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h2 class="filter-title"><span class="content"><strong>Produtos em Destaque</strong></span></h2>
+                <div id="featured_product" class="owl-top-narrow">
+                    <div class="filter-products">
+        <div class="products owl-carousel">
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-morango-com-cabernet-sauvignon.html" title="Geleia de Morango com Cabernet Sauvignon" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/e/6/e6120_1.jpg" width="300"  alt="Geleia de Morango com Cabernet Sauvignon"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/e/6/e6120_1.jpg" width="300"  alt="Geleia de Morango com Cabernet Sauvignon"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-morango-com-cabernet-sauvignon.html" title="Geleia de Morango com Cabernet Sauvignon">Geleia de Morango com Cabernet Sauvignon</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-72">
+                                            <span class="price">R$28,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/72/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/72/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/72/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-bacon.html" title="Geleia de Bacon" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/r/c/rcafetera_kxa12a_grd_1.jpg" width="300"  alt="Geleia de Bacon"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/r/c/rcafetera_kxa12a_grd_1.jpg" width="300"  alt="Geleia de Bacon"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-bacon.html" title="Geleia de Bacon">Geleia de Bacon</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-35">
+                                            <span class="price">R$28,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/35/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/35/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/35/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-pimenta.html" title="Geleia de Pimenta" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_446853_1_3.jpg" width="300"  alt="Geleia de Pimenta"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_446853_1_3.jpg" width="300"  alt="Geleia de Pimenta"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-pimenta.html" title="Geleia de Pimenta">Geleia de Pimenta</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-75">
+                                            <span class="price">R$25,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/75/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/75/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/75/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-banana-com-rum.html" title="Geleia de Banana com Rum" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_507295_1_1.jpg" width="300"  alt="Geleia de Banana com Rum"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_507295_1_1.jpg" width="300"  alt="Geleia de Banana com Rum"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-banana-com-rum.html" title="Geleia de Banana com Rum">Geleia de Banana com Rum</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-38">
+                                            <span class="price">R$28,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/38/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/38/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/38/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-cerveja-ipa.html" title="Geleia de Cerveja IPA" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/a/g/agimg_584975_1.jpg" width="300"  alt="Geleia de Cerveja IPA"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/a/g/agimg_584975_1.jpg" width="300"  alt="Geleia de Cerveja IPA"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-cerveja-ipa.html" title="Geleia de Cerveja IPA">Geleia de Cerveja IPA</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-43">
+                                            <span class="price">R$28,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/43/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/43/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/43/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-kiwi-com-gengibre.html" title="Geleia de Kiwi com Gengibre" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_507295_1.jpg" width="300"  alt="Geleia de Kiwi com Gengibre"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_507295_1.jpg" width="300"  alt="Geleia de Kiwi com Gengibre"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-kiwi-com-gengibre.html" title="Geleia de Kiwi com Gengibre">Geleia de Kiwi com Gengibre</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-56">
+                                            <span class="price">R$28,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/56/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/56/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/56/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-morango.html" title="Geleia de Morango" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/p/c/pct-razer_basilisk_chroma_92790.jpg" width="300"  alt="Geleia de Morango"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/p/c/pct-razer_basilisk_chroma_92790.jpg" width="300"  alt="Geleia de Morango"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-morango.html" title="Geleia de Morango">Geleia de Morango</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-71">
+                                            <span class="price">R$25,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/71/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/71/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/71/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-morango-com-glitter.html" title="Geleia de Morango com Glitter" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_524964_1.jpg" width="300"  alt="Geleia de Morango com Glitter"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_524964_1.jpg" width="300"  alt="Geleia de Morango com Glitter"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-morango-com-glitter.html" title="Geleia de Morango com Glitter">Geleia de Morango com Glitter</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-73">
+                                            <span class="price">R$28,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/73/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/73/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/73/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-banana.html" title="Geleia de Banana" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/r/k/rkitchenaid_kten20cber_2.0-quart_kettle._grd.jpg" width="300"  alt="Geleia de Banana"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/r/k/rkitchenaid_kten20cber_2.0-quart_kettle._grd.jpg" width="300"  alt="Geleia de Banana"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-banana.html" title="Geleia de Banana">Geleia de Banana</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-36">
+                                            <span class="price">R$25,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/36/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/36/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/36/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-carambola-com-gengibre.html" title="Geleia de Carambola com Gengibre" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/a/g/agimg_586276_1.jpg" width="300"  alt="Geleia de Carambola com Gengibre"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/a/g/agimg_586276_1.jpg" width="300"  alt="Geleia de Carambola com Gengibre"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-carambola-com-gengibre.html" title="Geleia de Carambola com Gengibre">Geleia de Carambola com Gengibre</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-40">
+                                            <span class="price">R$28,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/40/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/40/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/40/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                </div>
+</div>
+
+                </div>
+                <script type="text/javascript">
+                    jQuery(function($){
+                        $("#featured_product .filter-products .owl-carousel").owlCarousel({lazyLoad: true,    itemsCustom: [ [0, 1], [320, 1], [480, 2], [768, 3], [992, 4], [1280, 5] ],    responsiveRefreshRate: 50,    slideSpeed: 200,    paginationSpeed: 500,    scrollPerPage: false,    stopOnHover: true,    rewindNav: true,    rewindSpeed: 600,    pagination: false,    navigation: true,    autoPlay: true,    navigationText:["<i class='icon-left-open'></i>","<i class='icon-right-open'></i>"]});
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+</div>
+<div style="padding-top: 20px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                		  <h2 class="filter-title"><span class="content"><strong>Lançamentos</strong></span></h2>
+		<div id="latest_product" class="owl-top-narrow hide-addtocart hide-addtolinks">
+			<div class="filter-products">
+        <div class="products owl-carousel">
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-pimenta.html" title="Geleia de Pimenta" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_446853_1_3.jpg" width="300"  alt="Geleia de Pimenta"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_446853_1_3.jpg" width="300"  alt="Geleia de Pimenta"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-pimenta.html" title="Geleia de Pimenta">Geleia de Pimenta</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-75">
+                                            <span class="price">R$25,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/75/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/75/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/75/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-pera.html" title="Geleia de Pêra" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/a/g/agimg_528597_1.jpg" width="300"  alt="Geleia de Pêra"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/a/g/agimg_528597_1.jpg" width="300"  alt="Geleia de Pêra"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-pera.html" title="Geleia de Pêra">Geleia de Pêra</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-74">
+                                            <span class="price">R$25,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/74/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/74/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/74/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-morango-com-glitter.html" title="Geleia de Morango com Glitter" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_524964_1.jpg" width="300"  alt="Geleia de Morango com Glitter"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_524964_1.jpg" width="300"  alt="Geleia de Morango com Glitter"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-morango-com-glitter.html" title="Geleia de Morango com Glitter">Geleia de Morango com Glitter</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-73">
+                                            <span class="price">R$28,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/73/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/73/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/73/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-morango-com-cabernet-sauvignon.html" title="Geleia de Morango com Cabernet Sauvignon" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/e/6/e6120_1.jpg" width="300"  alt="Geleia de Morango com Cabernet Sauvignon"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/e/6/e6120_1.jpg" width="300"  alt="Geleia de Morango com Cabernet Sauvignon"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-morango-com-cabernet-sauvignon.html" title="Geleia de Morango com Cabernet Sauvignon">Geleia de Morango com Cabernet Sauvignon</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-72">
+                                            <span class="price">R$28,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/72/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/72/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/72/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-morango.html" title="Geleia de Morango" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/p/c/pct-razer_basilisk_chroma_92790.jpg" width="300"  alt="Geleia de Morango"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/p/c/pct-razer_basilisk_chroma_92790.jpg" width="300"  alt="Geleia de Morango"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-morango.html" title="Geleia de Morango">Geleia de Morango</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-71">
+                                            <span class="price">R$25,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/71/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/71/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/71/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-lima-da-percia.html" title="Geleia de Lima da Pércia" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/a/g/agimg_573443_1.jpg" width="300"  alt="Geleia de Lima da Pércia"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/a/g/agimg_573443_1.jpg" width="300"  alt="Geleia de Lima da Pércia"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-lima-da-percia.html" title="Geleia de Lima da Pércia">Geleia de Lima da Pércia</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-60">
+                                            <span class="price">R$25,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/60/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/60/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/60/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-laranja-com-gengibre.html" title="Nome de Produto" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/r/c/rcafetera_kxa12a_grd.jpg" width="300"  alt="Nome de Produto"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/r/c/rcafetera_kxa12a_grd.jpg" width="300"  alt="Nome de Produto"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-laranja-com-gengibre.html" title="Nome de Produto">Nome de Produto</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-59">
+                                            <span class="price">R$28,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/59/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/59/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/59/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-laranja-com-chia.html" title="Geleia de Laranja com Chia" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/r/t/rtorradeira_kitchenaid_kmt4115er_grd.jpg" width="300"  alt="Geleia de Laranja com Chia"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/r/t/rtorradeira_kitchenaid_kmt4115er_grd.jpg" width="300"  alt="Geleia de Laranja com Chia"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-laranja-com-chia.html" title="Geleia de Laranja com Chia">Geleia de Laranja com Chia</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-58">
+                                            <span class="price">R$28,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/58/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/58/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/58/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-laranja.html" title="Geleia de Laranja" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_421584_1.jpg" width="300"  alt="Geleia de Laranja"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_421584_1.jpg" width="300"  alt="Geleia de Laranja"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-laranja.html" title="Geleia de Laranja">Geleia de Laranja</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-57">
+                                            <span class="price">R$25,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/57/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/57/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/57/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                            <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                    <div class="loader-container">
+                        <div class="loader">
+                            <i class="ajax-loader medium animate-spin"></i>
+                        </div>
+                    </div>
+                                        <a href="https://vilabrasil.com.br/index.php/geleia-de-kiwi-com-gengibre.html" title="Geleia de Kiwi com Gengibre" class="product-image">
+                                            <img class="defaultImage " src="https://vilabrasil.com.br/media/catalog/product/cache/1/small_image/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_507295_1.jpg" width="300"  alt="Geleia de Kiwi com Gengibre"/>
+                        <img class="hoverImage" src="https://vilabrasil.com.br/media/catalog/product/cache/1/thumbnail/300x/17f82f742ffe127f42dca9de82fb58b1/i/m/img_507295_1.jpg" width="300"  alt="Geleia de Kiwi com Gengibre"/>
+                                                                                                    </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="https://vilabrasil.com.br/index.php/geleia-de-kiwi-com-gengibre.html" title="Geleia de Kiwi com Gengibre">Geleia de Kiwi com Gengibre</a></h2>
+                                                                                    <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                                                                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-56">
+                                            <span class="price">R$28,00</span>                                    </span>
+                        
+        </div>
+
+                                                            <div class="actions">
+                                                                            <a href="https://vilabrasil.com.br/index.php/wishlist/index/add/product/56/form_key/oVloH2VQsS6lNcpe/"  class="addtowishlist" title="Adicionar aos Favoritos"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="https://vilabrasil.com.br/index.php/checkout/cart/add/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/product/56/form_key/oVloH2VQsS6lNcpe/" class="addtocart" title="Comprar" ><i class="icon-cart"></i><span>&nbsp;Comprar</span></a>
+                                                                                                        <a href="https://vilabrasil.com.br/index.php/catalog/product_compare/add/product/56/uenc/aHR0cHM6Ly92aWxhYnJhc2lsLmNvbS5ici9pbmRleC5waHAv/form_key/oVloH2VQsS6lNcpe/"  class="comparelink" title="Comparar Produto"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                                    </div>
+            </div></div>
+                </div>
+</div>
+
+		</div>
+		<script type="text/javascript">
+		jQuery(function($){
+			$("#latest_product .filter-products .owl-carousel").owlCarousel({lazyLoad: true,    itemsCustom: [ [0, 1], [320, 1], [480, 2], [768, 3], [992, 4], [1200, 5] ],    responsiveRefreshRate: 50,    slideSpeed: 200,    paginationSpeed: 500,    scrollPerPage: false,    stopOnHover: true,    rewindNav: true,    rewindSpeed: 600,    pagination: false,    navigation: false,    autoPlay: true,    navigationText:["<i class='icon-left-open'></i>","<i class='icon-right-open'></i>"]});
+		});
+		</script>
+            </div>
+        </div>
+    </div>
+</div>
+<div style="padding-top: 20px;" class="custom-support">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <i class="icon-star" style="border-radius:50%;border:2px solid #cecece;color:#333;background-color:transparent;line-height:58px;font-size:25px;"></i>
+                <div class="content">
+                    <h2>Produtos de Qualidade</h2>
+                    <em>Diversos produtos</em>
+                    <p>Alta diversidades e qualidade em produtos.</p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <i class="icon-reply" style="border-radius:50%;border:2px solid #cecece;color:#333;background-color:transparent;line-height:58px;font-size:25px;"></i>
+                <div class="content">
+                    <h2>Entrega Expressa</h2>
+                    <em>Envio Rápido</em>
+                    <p>Entrega e postagem super rápida. </p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <i class="icon-paper-plane" style="border-radius:50%;border:2px solid #cecece;color:#333;background-color:transparent;line-height:58px;font-size:25px;"></i>
+                <div class="content">
+                    <h2>Atendimento</h2>
+                    <em>Atendimento e suporte</em>
+                    <p>Atendimento vendas e pós vendas.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="parallax-wrapper ">
+    <div class="overlay overlay-color" style="background-color: #000000; opacity: 0.75; filter: alpha(opacity=75);"></div>
+    <div class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(https://vilabrasil.com.br/media/wysiwyg/porto/homepage/content/05/2.jpg);">
+        <div class="parallax-slider" style="position: relative; z-index: 3;">
+            <div class="container">
+                <div id="parallax-slider-demo-5" class="owl-carousel owl-theme">
+                    <div class="item">
+                        <h2 style="font-weight:600;">Conheça <b style="font-weight:800;">Nossos Produtos</b></h2>
+                        <p style="font-weight:300;">Produtos de alta qualidade e baixo custo</p>
+                        <a href="#" style="font-weight:300;"></a>
+                    </div>
+                    <div class="item">
+                        <h2 style="font-weight:600;">Novidades<b style="font-weight:800;"></b></h2>
+                        <p style="font-weight:300;">Produtos lançamentos</p>
+                        <a href="#" style="font-weight:300;"></a>
+                    </div>
+                    <div class="item">
+                        <h2 style="font-weight:600;">Promoções<b style="font-weight:800;"></b></h2>
+                        <p style="font-weight:300;">Conheça nossas promoções</p>
+                        <a href="#" style="font-weight:300;"></a>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+                jQuery(function($){
+                    $("#parallax-slider-demo-5").owlCarousel({navigation : false,slideSpeed : 300,paginationSpeed : 400,    stopOnHover: true,autoPlay: true,singleItem:true});
+                });
+            </script>
+        </div>
+    </div>
+</div>

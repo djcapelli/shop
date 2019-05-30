@@ -1,0 +1,52 @@
+<div class="header-wrapper">
+<div class="main-nav">
+    <div class="container">            
+        <div class="menu-wrapper">
+            <div class="menu-all-pages-container">
+                <ul class="menu">
+                    <li class="">
+    <a href="//vilabrasil.com.br/index.php/">
+       <span>Início</span>
+    </a>
+</li>
+<li class=" ">
+<a href="//vilabrasil.com.br/index.php/games.html">ELETRÔNICOS</a>
+</li>
+<li class=" ">
+<a href="//vilabrasil.com.br/index.php/games-7.html">GAMES</a>
+</li>
+<li class=" ">
+<a href="//vilabrasil.com.br/index.php/geleias-268-ml.html">ELETRODOMÉSTICOS</a>
+</li>
+<li class=" ">
+<a href="//vilabrasil.com.br/index.php/geleias-40-ml.html">MÓVEIS - DECORAÇÃO</a>
+</li>
+<li class=" ">
+<a href="//vilabrasil.com.br/index.php/geleias.html">COMPUTADORES</a>
+</li>
+<li class=" ">
+<a href="//vilabrasil.com.br/index.php/pet-shop.html">PET SHOP</a>
+</li>
+<li class=" ">
+<a href="//vilabrasil.com.br/index.php/celulares.html">CELULARES</a>
+</li>
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+
+<script type="text/javascript">
+var SW_MENU_POPUP_WIDTH = 0;
+jQuery(function($){
+    $(document).ready(function(){
+        $('.main-nav .menu').et_menu({
+            type: "default",
+            delayTime: 0        });
+    });
+});
+</script>

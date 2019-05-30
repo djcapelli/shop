@@ -1,0 +1,11 @@
+[08-May-2019 12:15:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Mage_Log_Helper_Data::isLogFileExtensionValid() in /home/vilabras/public_html/app/Mage.php:811
+Stack trace:
+#0 /home/vilabras/public_html/app/code/core/Mage/Core/functions.php(247): Mage::log('Warning: includ...', 3)
+#1 /home/vilabras/public_html/downloader/lib/Mage/Autoload/Simple.php(49): mageCoreErrorHandler(2, 'include_once(Ma...', '/home/vilabras/...', 49, Array)
+#2 /home/vilabras/public_html/downloader/lib/Mage/Autoload/Simple.php(49): include_once()
+#3 [internal function]: Mage_Autoload_Simple->autoload('Mage_Adminhtml_...')
+#4 /home/vilabras/public_html/app/code/core/Mage/Adminhtml/Helper/Data.php(34): spl_autoload_call('Mage_Adminhtml_...')
+#5 /home/vilabras/public_html/downloader/lib/Mage/Autoload/Simple.php(49): include_once('/home/vilabras/...')
+#6 [internal function]: Mage_Autoload_Simple->autoload('Mage_Adminhtml_...')
+#7 /home/vilabras/public_html/app/code/core/Mage/Core/Controller/Varien/Router/Admin.php(123): spl_autoload_call('Mage_Adminhtml_...')
+#8  in /home/vilabras/public_html/app/Mage.php on line 811

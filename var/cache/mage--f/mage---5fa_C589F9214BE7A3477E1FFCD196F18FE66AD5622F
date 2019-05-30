@@ -1,0 +1,19 @@
+<form id="search_mini_form" action="//vilabrasil.com.br/index.php/catalogsearch/result/" method="get">
+    <div class="form-search ">
+        <label for="search">Buscar:</label>
+                <input id="search" type="text" name="q" class="input-text" />
+                <select id="cat" name="cat">
+            <option value="">Todas as Categorias </option>
+                            <option value="13">ELETRÔNICOS</option>
+                                                                                <option value="14">GAMES</option>
+                                                                                <option value="12">ELETRODOMÉSTICOS</option>
+                                                                                <option value="11">MÓVEIS - DECORAÇÃO</option>
+                                                                                <option value="10">COMPUTADORES</option>
+                                                                                <option value="16">PET SHOP</option>
+                                                                                <option value="15">CELULARES</option>
+                                                                        </select>
+                <button type="submit" title="Procurar" class="button"><i class="icon-search"></i></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <div class="clearer"></div>
+    </div>
+</form>

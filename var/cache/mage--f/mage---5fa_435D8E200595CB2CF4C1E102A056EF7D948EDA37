@@ -1,0 +1,13 @@
+<div class="block">
+    <div class="block-title"><strong><span>Minha conta</span></strong></div>
+
+    <div class="block-content">
+<ul class="links">
+    <li><i class="icon-right-dir theme-color"></i><a href="https://vilabrasil.com.br/index.php/about-porto" title="About us">Quem Somos</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="https://vilabrasil.com.br/index.php/contacts" title="Contact us">Contato</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="https://vilabrasil.com.br/index.php/customer/account" title="My account">Minha conta</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="https://vilabrasil.com.br/index.php/sales/order/history" title="Orders history">Meus Pedidos</a></li>
+    <li><i class="icon-right-dir theme-color"></i><a href="https://vilabrasil.com.br/index.php/catalogsearch/advanced" title="Advanced search">Busca Avançada</a></li>
+</ul>
+</div>
+</div>

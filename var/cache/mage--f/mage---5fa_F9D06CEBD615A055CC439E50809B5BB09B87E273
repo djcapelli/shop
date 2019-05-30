@@ -1,0 +1,11 @@
+<div class="block">
+    <div class="block-title"><strong><span>Contato</span></strong></div>
+    <div class="block-content">
+        <ul class="contact-info">
+            <li><i class="icon-location">&nbsp;</i><p><b>Endereço:</b><br/>Av. Nilo Humberto Deitos, 2144</p></li>
+            <li><i class="icon-phone">&nbsp;</i><p><b>Telefone:</b><br/>(45) 99862-9272 (45) 99901-7356</p></li>
+            <li><i class="icon-mail">&nbsp;</i><p><b>E-mail:</b><br/><a href="mailto:sac@vilabrasil.com.br">sac@vilabrasil.com.br</a></p></li>
+            <li><i class="icon-clock">&nbsp;</i><p><b>Horário de Funcionamento:</b><br/>Segunda a sexta das 8:00 ás 18:00</p></li>
+        </ul>
+    </div>
+</div>
